@@ -1,3 +1,4 @@
+passlib[bcrypt]
 absl-py==2.1.0
 annotated-types==0.7.0
 anyio==4.4.0
